@@ -4,7 +4,7 @@ A static, single-page website for a fictional community health clinic built usin
 
 ## Project Structure
 
-The entire website lives in a single file: `index.html`
+The entire website lives in a single file: `project_2_health_clinic.html`
 
 | Section | Description |
 |---|---|
@@ -36,7 +36,7 @@ The entire website lives in a single file: `index.html`
 
 ## How to Run
 
-No build tools or dependencies required. Simply open `index.html` in any modern web browser.
+No build tools or dependencies required. Simply open `project_2_health_clinic.html` in any modern web browser.
 
 ## Notes
 
